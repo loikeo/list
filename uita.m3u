@@ -152,7 +152,7 @@ http://183.238.77.8:9090/live/yangshijingpin_1500.m3u8
 http://nclive.grtn.cn/4K/sd/live.m3u8
 #EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="地方",MTV
 http://183.238.77.8:9090/live/MTV_1500.m3u8
-#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="电影",Channel V
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="地方",Channel V
 http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV13.jpg" group-title="地方",CCTV卫生健康
 http://183.238.77.8:9090/live/weishengjiankang_1500.m3u8
