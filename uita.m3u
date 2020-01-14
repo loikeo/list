@@ -85,8 +85,12 @@ http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtok
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000313
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
+https://www.nettv.live/uploads/18/1-1PS1213339246.jpg
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
 http://223.110.241.203:6610/gitv/live1/G_KANGBA/G_KANGBA/
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1PHG20J0103.jpg"  tvg-id="" tvg-name="藏语卫视" group-title="卫视",藏语卫视
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",旅游卫视
 http://223.110.241.203:6610/gitv/live1/LYWS/LYWS/
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://imgsrc.baidu.com/forum/pic/item/23f608f41bd5ad6ecfdeee818ecb39dbb7fd3ca7.jpg" group-title="卫视",南方卫视
