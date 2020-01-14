@@ -245,11 +245,11 @@ http://183.238.77.8:9090/live/DOXTV_1500.m3u8
 http://hw-stream.kksmg.com/live/stv5ed4462f.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
 http://183.238.77.8:9090/live/xinshijueHD_7000.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车HD
+#EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="上海",极速汽车HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/1.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育HD
 http://183.238.77.8:9090/live/jinbaotiyuHD_7000.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-logo="http://static2.tvzhe.com/channel/logo/SHHAI5.jpg" group-title="上海",五星体育HD
+#EXTINF:-1 tvg-id="1987" tvg-logo="https://www.nettv.live/uploads/18/1-1P5121J6453Z.jpg" group-title="上海",五星体育HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场HD
 http://183.238.77.8:9090/live/huanxiaojuchangHD_7000.m3u8
@@ -275,7 +275,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/1.m3u8
 http://hw-stream.kksmg.com/live/dycj93ba5ac7.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P311201051922.jpg" group-title="上海",东方财经·浦东频道
 http://39.134.52.153/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-logo="http://pix2.tvzhe.com/thumb/tvcolumn/61/92/240x180.jpg" group-title="上海",点掌财经HD
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P5251R403211.jpg" group-title="上海",点掌财经HD
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="上海",幸福彩
 http://183.238.77.8:9090/live/xingfucai_1500.m3u8
