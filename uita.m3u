@@ -133,7 +133,7 @@ http://tv.lanjingfm.com/cctbn/beijing.m3u8
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="卫视",中华美食
 http://183.238.77.8:9090/live/zhonghuameishi_1500.m3u8
-#EXTINF:-1 tvg-id="73" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="卫视",教育综合HD
+#EXTINF:-1 tvg-id="73" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="卫视",教育综合
 http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="卫视",继续教育
 http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
