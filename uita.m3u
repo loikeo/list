@@ -439,7 +439,7 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/mstv.jpg" group-title="港台频道",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" group-title="港台频道",莲花卫视
-rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+rtmp://live-http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港台频道",好莱坞电影
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港台频道",动物星球
