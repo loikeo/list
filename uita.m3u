@@ -275,14 +275,14 @@ http://183.238.77.8:9090/live/meiliyinyueHD_7000.m3u8
 http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P5121GG5293.jpg" tvg-id="1986"  group-title="上海",东方影视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiyishu.jpg" tvg-id="1990" tvg-name="艺术人文频道" group-title="上海",艺术人文频道
-http://itv.ahau.edu.cn/PLTV/88888888/224/3221229271/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实 HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实HD
+#EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文1 HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-id="1990" tvg-name="" group-title="上海",纪实人文2 HD
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221229271/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",ICS HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" tvg-id="1985" group-title="上海",第一财经
