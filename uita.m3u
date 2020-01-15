@@ -281,7 +281,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文1 HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-id="1990" tvg-name="" group-title="上海",纪实人文2 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" tvg-id="1988" tvg-name="" group-title="上海",纪实人文2 HD
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221229271/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",ICS HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/1.m3u8
