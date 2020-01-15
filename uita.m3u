@@ -9,7 +9,7 @@ http://223.110.241.203:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
 http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5HD
 http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+HD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://static.iptv-epg.com/cn/CCTV5Plus.cn.png" group-title="央视",CCTV-5+HD
 http://223.110.241.203:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6HD
 http://223.110.241.203:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
@@ -85,28 +85,20 @@ http://itv.ahau.edu.cn/hls/hnhd.m3u8
 http://itv.ahau.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
-http://101.89.132.136/live/tm-haixiatv-800k.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://player.ioioz.com/17/0/hogem3u8.php?tv=hainan&id=7
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视HD
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="https://www.nettv.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视",南方卫视
-http://223.110.241.203:6610/gitv/live1/G_NANFANG/G_NANFANG/
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://223.110.241.203:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://223.110.241.203:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="http://imgsrc.baidu.com/forum/pic/item/5ca6d71373f08202e9ed932844fbfbedaa641b93.jpg" group-title="卫视",农林卫视
-http://223.110.241.203:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://223.110.241.203:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://223.110.241.203:6610/gitv/live1/SXWS/SXWS/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" tvg-id="65" tvg-name="黄河卫视" group-title="卫视",黄河卫视
 http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1Q201193146251.jpg" tvg-id="" tvg-name="中国黄河" group-title="卫视",中国黄河
-http://live3.sxrtv.com/flvss?bitrate=512000&channel=ChinaHuangHe
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://223.110.241.203:6610/gitv/live1/G_SHANXI/G_SHANXI/
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视HD
@@ -125,9 +117,19 @@ http://223.110.241.203:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
 http://223.110.241.203:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://223.110.241.203:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SDETV1.jpg" group-title="卫视",教育卫视HD
+http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
+http://101.89.132.136/live/tm-haixiatv-800k.m3u8
+#EXTINF:-1 tvg-id="60" tvg-logo="https://www.nettv.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视",南方卫视
+http://223.110.241.203:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://www.nettv.live/uploads/18/1-1P21Q1221W44.png" group-title="卫视",农林卫视
+http://223.110.241.203:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1Q201193146251.jpg" tvg-id="" tvg-name="中国黄河" group-title="卫视",中国黄河
+http://live3.sxrtv.com/flvss?bitrate=512000&channel=ChinaHuangHe
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZGJTPD.jpg" group-title="卫视",中国交通
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZHTCTV.jpg" group-title="卫视",中华特产
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-19101GF9520-L.jpg" group-title="卫视",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="卫视",中华美食
 http://183.238.77.8:9090/live/zhonghuameishi_1500.m3u8
@@ -139,8 +141,6 @@ http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="卫视",智慧教育
 http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SDETV1.jpg" group-title="卫视",教育卫视HD
-http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wx2.sinaimg.cn/thumb180/594fb883ly1fu2an764y0j20sg0sgac4.jpg" group-title="卫视",中国天气
 http://183.238.77.8:9090/live/zgqixiang_1500.m3u8
 
