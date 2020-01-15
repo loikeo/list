@@ -78,11 +78,11 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225836/1.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226864/1.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视HD
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000253
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视HD
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000312
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视HD
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&accesstoken=R5DC39762U309A5010K776E9437IB19E49DFPBM3221EB5V1044EZ33519WE4EA8496423&programid=4200000313
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225851/1.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
@@ -91,7 +91,7 @@ https://www.nettv.live/uploads/18/1-1PS1213339246.jpg
 http://223.110.241.203:6610/gitv/live1/G_KANGBA/G_KANGBA/
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1PHG20J0103.jpg"  tvg-id="" tvg-name="藏语卫视" group-title="卫视",藏语卫视
 http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",旅游卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://www.nettv.live/uploads/19/1-1Z50119294HN.jpg" group-title="卫视",海南卫视
 http://223.110.241.203:6610/gitv/live1/LYWS/LYWS/
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://imgsrc.baidu.com/forum/pic/item/23f608f41bd5ad6ecfdeee818ecb39dbb7fd3ca7.jpg" group-title="卫视",南方卫视
 http://223.110.241.203:6610/gitv/live1/G_NANFANG/G_NANFANG/
@@ -279,8 +279,8 @@ http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiyishu.jpg" tvg-id="1990" tvg-name="艺术人文频道" group-title="上海",艺术人文频道
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221229271/index.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚HD
-http://117.156.28.57/PLTV/88888888/224/3221225703/index.m3u
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实 HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实HD
