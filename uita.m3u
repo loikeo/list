@@ -101,6 +101,10 @@ http://223.110.241.203:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 http://223.110.241.203:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://223.110.241.203:6610/gitv/live1/SXWS/SXWS/
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" tvg-id="65" tvg-name="黄河卫视" group-title="卫视",黄河卫视
+http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1Q201193146251.jpg" tvg-id="" tvg-name="中国黄河" group-title="卫视",中国黄河
+http://live3.sxrtv.com/flvss?bitrate=512000&channel=ChinaHuangHe
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://223.110.241.203:6610/gitv/live1/G_SHANXI/G_SHANXI/
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视HD
