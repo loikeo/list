@@ -87,10 +87,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 http://101.89.132.136/live/tm-haixiatv-800k.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://player.ioioz.com/17/0/hogem3u8.php?tv=hainan&id=7
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
-http://223.110.241.203:6610/gitv/live1/G_KANGBA/G_KANGBA/
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1PHG20J0103.jpg"  tvg-id="" tvg-name="藏语卫视" group-title="卫视",藏语卫视
-http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://www.nettv.live/uploads/19/1-1Z50119294HN.jpg" group-title="卫视",海南卫视
 http://223.110.241.203:6610/gitv/live1/LYWS/LYWS/
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://imgsrc.baidu.com/forum/pic/item/23f608f41bd5ad6ecfdeee818ecb39dbb7fd3ca7.jpg" group-title="卫视",南方卫视
@@ -111,6 +107,8 @@ http://223.110.241.203:6610/gitv/live1/G_SHANXI/G_SHANXI/
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://223.110.241.203:6610/gitv/live1/G_XIZANG/G_XIZANG/
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
+http://223.110.241.203:6610/gitv/live1/G_KANGBA/G_KANGBA/
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://223.110.241.203:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
