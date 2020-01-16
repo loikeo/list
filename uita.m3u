@@ -231,47 +231,14 @@ http://183.238.77.8:9090/live/xindongman_1500.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav4.png" group-title="DOX",DOX4K
-http://183.238.77.8:9090/live/dox4k_16000.m3u8
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",DOX院线HD
-http://183.238.77.8:9090/live/DOXyuanxianHD_7000.m3u8
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX雅趣HD
-http://183.238.77.8:9090/live/DOXhanliuHD_7000.m3u8
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",DOX怡家HD
-http://183.238.77.8:9090/live/DOXyijiaHD_7000.m3u8
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",DOX英伦HD
-http://183.238.77.8:9090/live/DOXyinglunHD_7000.m3u8
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",DOX新艺HD
-http://183.238.77.8:9090/live/DOXxinyiHD_7000.m3u8
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",DOX新知HD
-http://183.238.77.8:9090/live/DOXxinzhiHD_7000.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",DOX映画HD
-http://183.238.77.8:9090/live/DOXyinghuaHD_7000.m3u8
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",DOX剧场HD
-http://183.238.77.8:9090/live/DOXjuchangHD_7000.m3u8
-#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav1.png" group-title="DOX",DOXTV
-http://183.238.77.8:9090/live/DOXTV_1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="DOX",BesTV4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="DOX",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="DOX",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="DOX",爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" tvg-id="1984" tvg-name="上视新闻频道" group-title="上海",上视新闻HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225973/3.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJTY.jpg" group-title="上海",Newtv-超级体育HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CJTYWQ.jpg" group-title="上海",BestTv-超级体育HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225907/3.m3u8
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
-http://player.ioioz.com/17/sc/scyxm3u8.php?id=xsj
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" tvg-id="1983" group-title="上海",游戏风云HD
+http://39.134.176.148/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="极速汽车" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="上海",极速汽车HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/1.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育HD
-http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-logo="https://www.nettv.live/uploads/18/1-1P5121J6453Z.jpg" group-title="上海",五星体育HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场HD
@@ -302,8 +269,15 @@ http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225891/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P5251R403211.jpg" group-title="上海",点掌财经HD
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" tvg-id="1983" group-title="上海",游戏风云HD
-http://39.134.176.148/PLTV/88888888/224/3221226726/index.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJTY.jpg" group-title="上海",Newtv-超级体育HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CJTYWQ.jpg" group-title="上海",BestTv-超级体育HD
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225907/3.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
+http://183.238.77.9:9090/live/xinshijueHD_7000.m3u8
+http://player.ioioz.com/17/sc/scyxm3u8.php?id=xsj
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P311201051922.jpg" group-title="上海",东方财经·浦东频道
 http://39.134.52.153/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 tvg-id="6609" tvg-logo="http://static2.tvzhe.com/channel/logo/BAMC7.jpg" group-title="上海",新娱乐
@@ -330,6 +304,39 @@ http://live.mudu.tv/watch/4zbn2f.m3u8
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="上海",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="上海",
+
+
+
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav4.png" group-title="DOX",DOX4K
+http://183.238.77.8:9090/live/dox4k_16000.m3u8
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",DOX院线HD
+http://183.238.77.8:9090/live/DOXyuanxianHD_7000.m3u8
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX雅趣HD
+http://183.238.77.8:9090/live/DOXhanliuHD_7000.m3u8
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",DOX怡家HD
+http://183.238.77.8:9090/live/DOXyijiaHD_7000.m3u8
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",DOX英伦HD
+http://183.238.77.8:9090/live/DOXyinglunHD_7000.m3u8
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",DOX新艺HD
+http://183.238.77.8:9090/live/DOXxinyiHD_7000.m3u8
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",DOX新知HD
+http://183.238.77.8:9090/live/DOXxinzhiHD_7000.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",DOX映画HD
+http://183.238.77.8:9090/live/DOXyinghuaHD_7000.m3u8
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",DOX剧场HD
+http://183.238.77.8:9090/live/DOXjuchangHD_7000.m3u8
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav1.png" group-title="DOX",DOXTV
+http://183.238.77.8:9090/live/DOXTV_1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="DOX",BesTV4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="DOX",纯享4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="DOX",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="DOX",爱上4K
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+
+
 
 
 
