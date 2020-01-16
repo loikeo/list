@@ -157,8 +157,12 @@ http://iptv.pdsu.edu.cn/hls/chchd.m3u8
 http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=fc2d24b23601213fcf334ed464e636f8/11139f25bc315c6045957b8482b1cb1348547742.jpg" group-title="地方",黑莓电影HD
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="地方",黑莓电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="地方",黑莓动画
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="地方",黑莓电竞
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="地方",求索科学HD
@@ -213,8 +217,6 @@ http://183.238.77.8:9090/live/shuhua_1500.m3u8
 http://183.238.77.8:9090/live/yingyufudao_1500.m3u8
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方",先锋乒羽
 http://183.238.77.8:9090/live/pingyu_1500.m3u8
-#EXTINF:-1 tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=73d41c5a2e3fb80e0cd161df06d02ffb/68c8ba315c6034a82ce2a8eac413495408237642.jpg" group-title="地方",黑莓动画HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 http://183.238.77.8:9090/live/gdjiajiacartoon_1500.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
@@ -298,35 +300,34 @@ http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav4.png" group-title="DOX",DOX4K
-http://183.238.77.8:9090/live/dox4k_16000.m3u8
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX",DOX院线HD
-http://183.238.77.8:9090/live/DOXyuanxianHD_7000.m3u8
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX",DOX雅趣HD
-http://183.238.77.8:9090/live/DOXhanliuHD_7000.m3u8
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX",DOX怡家HD
-http://183.238.77.8:9090/live/DOXyijiaHD_7000.m3u8
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX",DOX英伦HD
-http://183.238.77.8:9090/live/DOXyinglunHD_7000.m3u8
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX",DOX新艺HD
-http://183.238.77.8:9090/live/DOXxinyiHD_7000.m3u8
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX",DOX新知HD
-http://183.238.77.8:9090/live/DOXxinzhiHD_7000.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX",DOX映画HD
-http://183.238.77.8:9090/live/DOXyinghuaHD_7000.m3u8
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX",DOX剧场HD
-http://183.238.77.8:9090/live/DOXjuchangHD_7000.m3u8
-#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav1.png" group-title="DOX",DOXTV
-http://183.238.77.8:9090/live/DOXTV_1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="DOX",BesTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="DOX4K",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="DOX",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="DOX4K",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="DOX",CCTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="DOX4K",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="DOX",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="DOX4K",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav4.png" group-title="DOX4K",DOX4K
+http://183.238.77.8:9090/live/dox4k_16000.m3u8
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX4K",DOX院线HD
+http://183.238.77.8:9090/live/DOXyuanxianHD_7000.m3u8
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX4K",DOX雅趣HD
+http://183.238.77.8:9090/live/DOXhanliuHD_7000.m3u8
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX4K",DOX怡家HD
+http://183.238.77.8:9090/live/DOXyijiaHD_7000.m3u8
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX4K",DOX英伦HD
+http://183.238.77.8:9090/live/DOXyinglunHD_7000.m3u8
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX4K",DOX新艺HD
+http://183.238.77.8:9090/live/DOXxinyiHD_7000.m3u8
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX4K",DOX新知HD
+http://183.238.77.8:9090/live/DOXxinzhiHD_7000.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX4K",DOX映画HD
+http://183.238.77.8:9090/live/DOXyinghuaHD_7000.m3u8
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX4K",DOX剧场HD
+http://183.238.77.8:9090/live/DOXjuchangHD_7000.m3u8
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav1.png" group-title="DOX4K",DOXTV
+http://183.238.77.8:9090/live/DOXTV_1500.m3u8
 
 
 
