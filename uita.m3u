@@ -159,8 +159,6 @@ http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-logo="http://imgsrc.baidu.com/forum/w%3D580/sign=fc2d24b23601213fcf334ed464e636f8/11139f25bc315c6045957b8482b1cb1348547742.jpg" group-title="地方",黑莓电影HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJDY.jpg" group-title="地方",Newtv-超级电影HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="地方",求索科学HD
@@ -269,13 +267,6 @@ http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225891/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P5251R403211.jpg" group-title="上海",点掌财经HD
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NEWTVCJTY.jpg" group-title="上海",Newtv-超级体育HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/CJTYWQ.jpg" group-title="上海",BestTv-超级体育HD
-http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225907/3.m3u8
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
-http://183.238.77.9:9090/live/xinshijueHD_7000.m3u8
-http://player.ioioz.com/17/sc/scyxm3u8.php?id=xsj
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
 http://183.207.249.9/PLTV/2/224/3221226045/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P311201051922.jpg" group-title="上海",东方财经·浦东频道
