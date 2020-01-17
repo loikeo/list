@@ -189,7 +189,7 @@ http://183.238.77.8:9090/live/yangshijingpin_1500.m3u8
 http://183.238.77.8:9090/live/weishengjiankang_1500.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NANFANG3.jpg" group-title="地方",广东综艺
 http://nclive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="地方",MTV
+#EXTINF:-1 tvg-id="7190" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="地方",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="地方",Channel V
 http://iptv.pdsu.edu.cn/hls/channelv.m3u8
@@ -324,13 +324,13 @@ http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122897
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="华数",求索生活HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="华数",欧美影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="华数",欧美影院
 http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/TSJS.jpg" group-title="华数",探索纪实
 http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="华数",精品剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="华数",精品剧场
 http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="亚洲影院" tvg-logo="http://static2.tvzhe.com/channel/logo/HSYZYY.jpg" group-title="华数",亚洲影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/HSYZYY.jpg" group-title="华数",亚洲影院
 http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gazh6wep5hj20au08cmxv.jpg"  group-title="华数",漫游世界
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
