@@ -304,17 +304,17 @@ http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",电视剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",大陆电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",欧美电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画2
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画3
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画4
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/1.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="华数",求索记录HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
