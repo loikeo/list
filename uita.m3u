@@ -298,69 +298,46 @@ http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="上海",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="上海",
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="DOX4K",BesTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="华数",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="DOX4K",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="华数",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="DOX4K",CCTV4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="华数",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="DOX4K",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="华数",爱上4K
 http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav4.png" group-title="DOX4K",DOX4K
-http://183.238.77.8:9090/live/dox4k_16000.m3u8
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX4K",DOX院线HD
-http://183.238.77.8:9090/live/DOXyuanxianHD_7000.m3u8
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX4K",DOX雅趣HD
-http://183.238.77.8:9090/live/DOXhanliuHD_7000.m3u8
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX4K",DOX怡家HD
-http://183.238.77.8:9090/live/DOXyijiaHD_7000.m3u8
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="DOX4K",DOX英伦HD
-http://183.238.77.8:9090/live/DOXyinglunHD_7000.m3u8
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX4K",DOX新艺HD
-http://183.238.77.8:9090/live/DOXxinyiHD_7000.m3u8
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX4K",DOX新知HD
-http://183.238.77.8:9090/live/DOXxinzhiHD_7000.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX4K",DOX映画HD
-http://183.238.77.8:9090/live/DOXyinghuaHD_7000.m3u8
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="DOX4K",DOX剧场HD
-http://183.238.77.8:9090/live/DOXjuchangHD_7000.m3u8
-#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://www.doxtv.com/Template/pc/default/Static/images/home/nav1.png" group-title="DOX4K",DOXTV
-http://183.238.77.8:9090/live/DOXTV_1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标电视剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标电视剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标动画
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标动画
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标动画
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="DOX4K",无台标动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标动画
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="DOX4K",欧美影院
+#EXTINF:-1 tvg-id="" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="华数",欧美影院
 http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/TSJS.jpg" group-title="DOX4K",探索纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/TSJS.jpg" group-title="华数",探索纪实
 http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
-#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="DOX4K",精品剧场
+#EXTINF:-1 tvg-id="" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="华数",精品剧场
 http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-id="6636" tvg-name="亚洲影院" tvg-logo="http://static2.tvzhe.com/channel/logo/HSYZYY.jpg" group-title="DOX4K",亚洲影院
+#EXTINF:-1 tvg-id="" tvg-name="亚洲影院" tvg-logo="http://static2.tvzhe.com/channel/logo/HSYZYY.jpg" group-title="华数",亚洲影院
 http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSYZYY.jpg"  group-title="DOX4K",漫游世界
+#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSYZYY.jpg"  group-title="华数",漫游世界
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/HSGQJX.jpg" group-title="DOX4K",高清娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/HSGQJX.jpg" group-title="华数",高清娱乐
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 tvg-id="6637" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/FSYY.jpg" group-title="DOX4K",风尚音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/FSYY.jpg" group-title="华数",风尚音乐
 http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1 tvg-id="6639" tvg-name="6639" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="DOX4K",少儿动漫
+#EXTINF:-1 tvg-id="" tvg-name="6639" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg" group-title="华数",少儿动漫
 http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
-
 
 
 
