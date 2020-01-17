@@ -163,14 +163,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="地方",黑莓电竞
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="地方",求索记录HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="地方",求索科学HD
-http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="地方",求索动物HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="地方",求索生活HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdianshizhinan.png" tvg-id="6561"  group-title="地方",CCTV电视指南
 http://183.238.77.9:9090/live/dianshizhinan_1500.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",CCTV老故事
@@ -298,6 +290,8 @@ http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="上海",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="上海",
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="华数",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="华数",纯享4K
@@ -322,6 +316,14 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z30H106260-L.jpg" group-title="华数",无台标动画
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="华数",求索记录HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="华数",求索科学HD
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="华数",求索动物HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="华数",求索生活HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="华数",欧美影院
 http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/TSJS.jpg" group-title="华数",探索纪实
@@ -330,7 +332,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚洲影院" tvg-logo="http://static2.tvzhe.com/channel/logo/HSYZYY.jpg" group-title="华数",亚洲影院
 http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSYZYY.jpg"  group-title="华数",漫游世界
+#EXTINF:-1 tvg-id=""  tvg-logo="https://wx4.sinaimg.cn/large/796c550dly1gazh6wep5hj20au08cmxv.jpg"  group-title="华数",漫游世界
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/HSGQJX.jpg" group-title="华数",高清娱乐
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
