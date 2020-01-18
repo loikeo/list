@@ -163,6 +163,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="地方",黑莓电竞
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-191030155JY51.jpg" tvg-id=""  group-title="地方",CCTV-4美洲
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-19103016035W49.jpg" tvg-id=""  group-title="地方",CCTV-4欧洲
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdianshizhinan.png" tvg-id="6561"  group-title="地方",CCTV电视指南
 http://183.238.77.9:9090/live/dianshizhinan_1500.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",CCTV老故事
