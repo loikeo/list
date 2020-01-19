@@ -243,7 +243,7 @@ http://39.134.176.153/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" tvg-id="1989" tvg-name="都市频道" group-title="上海",上海都市HD
 http://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8
 #EXTINF:-1 tvg-id="1978" tvg-name="魅力音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meiliyinyue.png" group-title="上海",魅力音乐HD
-http://183.238.77.8:9090/live/meiliyinyueHD_7000.m3u8
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000106.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1P5121GG5293.jpg" tvg-id="1986"  group-title="上海",东方影视HD
 http://117.156.28.21/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/sitvdmxc.jpg" group-title="上海",动漫秀场HD
