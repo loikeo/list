@@ -91,34 +91,34 @@ http://itv.ahau.edu.cn/hls/jlhd.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视HD
 http://itv.ahau.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-http://player.ioioz.com/17/0/hogem3u8.php?tv=hainan&id=7
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视HD
+http://183.194.230.139/tlivecloud-cdn.ysp.cctv.cn/2000294603.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视HD
+http://183.194.230.139/tlivecloud-cdn.ysp.cctv.cn/2000294403.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视HD
+http://183.194.230.139/tlivecloud-cdn.ysp.cctv.cn/2000285103.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视HD
+http://183.194.230.139/tlivecloud-cdn.ysp.cctv.cn/2000294703.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙卫视
 http://223.110.255.152:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://223.110.255.152:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://223.110.255.152:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://223.110.255.152:6610/gitv/live1/SXWS/SXWS/
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" tvg-id="65" tvg-name="黄河卫视" group-title="卫视",黄河卫视
-http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://223.110.255.152:6610/gitv/live1/G_SHANXI/G_SHANXI/
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://223.110.255.152:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://223.110.255.152:6610/gitv/live1/G_XIZANG/G_XIZANG/
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
-http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://223.110.255.152:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://223.110.255.152:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://223.110.255.152:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://223.110.255.152:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://223.110.255.152:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" tvg-id="65" tvg-name="黄河卫视" group-title="卫视",黄河卫视
+http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="72" tvg-name="三沙卫视" group-title="卫视",三沙卫视
+http://player.ioioz.com/17/0/hogem3u8.php?tv=hainan&id=7
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SDETV1.jpg" group-title="卫视",教育卫视
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
