@@ -169,28 +169,42 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-19103016035W49.jpg" tvg-id=""  group-title="地方",CCTV-4欧洲
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdianshizhinan.png" tvg-id="6561"  group-title="地方",CCTV电视指南
-http://183.238.77.9:9090/live/dianshizhinan_1500.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",CCTV老故事
-http://183.238.77.8:9090/live/laogushi_1500.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
-http://183.238.77.8:9090/live/fengyunjuchang_1500.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技"  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",兵器科技
+http://player.ioioz.com/17/0/migum3u8.php?id=623338073
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV风云足球
-http://183.238.77.8:9090/live/fengyunzuqiu_1500.m3u8
+http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球
+http://player.ioioz.com/17/0/migum3u8.php?id=621984921
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
+http://player.ioioz.com/17/0/migum3u8.php?id=603842910
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV风云音乐
-http://183.238.77.8:9090/live/fengyunyinyue_1500.m3u8
+http://player.ioioz.com/17/0/migum3u8.php?id=623338072
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
+http://player.ioioz.com/17/0/migum3u8.php?id=623338051
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV怀旧剧场
-http://183.238.77.8:9090/live/huaijiujuchang_1500.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV世界地理
-http://183.238.77.8:9090/live/shijiedili_1500.m3u8
+http://player.ioioz.com/17/0/migum3u8.php?id=623364608
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
-http://183.238.77.8:9090/live/diyijuchang_1500.m3u8
+http://itv.ahau.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV世界地理
+http://player.ioioz.com/17/0/migum3u8.php?id=623338083
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",CCTV发现之旅
-http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV女性时尚
-http://183.238.77.8:9090/live/nvxingshishang_1500.m3u8
+http://223.110.255.152:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+http://223.110.255.152:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="地方",弈坛春秋
+http://223.110.255.152:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学频道
+http://223.110.255.152:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
+http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
+http://39.134.176.153/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
+http://223.110.255.152:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="地方",CCTV央视精品
-http://183.238.77.8:9090/live/yangshijingpin_1500.m3u8
+http://player.ioioz.com/17/0/migum3u8.php?id=623338084
+#EXTINF:-1 tvg-id="6952" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="地方",新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV13.jpg" group-title="地方",CCTV卫生健康
 http://183.238.77.8:9090/live/weishengjiankang_1500.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NANFANG3.jpg" group-title="地方",广东综艺
@@ -209,22 +223,20 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
 http://183.238.77.8:9090/live/huanqiuqiguan_1500.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=shdy
-#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
-http://183.238.77.8:9090/live/shuhua_1500.m3u8
 #EXTINF:-1 tvg-id="1202" tvg-name="英语辅导频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="地方",英语辅导
-http://183.238.77.8:9090/live/yingyufudao_1500.m3u8
+http://itv.ahau.edu.cn/hls/hls107.m3u8
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方",先锋乒羽
-http://183.238.77.8:9090/live/pingyu_1500.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226131/1.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://183.238.77.8:9090/live/gdjiajiacartoon_1500.m3u8
+http://223.110.255.152:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/1.m3u8
+http://223.110.255.152:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226746/1.m3u8
 #EXTINF:-1 tvg-id="67" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷少儿
-http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="地方",新动漫
-http://183.238.77.8:9090/live/xindongman_1500.m3u8
+http://223.110.255.152:6610/gitv/live1/G_KAKU/G_KAKU/
+
+
 
 
 
