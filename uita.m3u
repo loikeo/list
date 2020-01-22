@@ -26,7 +26,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13HD
-http://223.110.255.152:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15HD
@@ -121,6 +121,8 @@ http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
 http://101.89.132.136/live/tm-haixiatv-800k.m3u8
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="60" tvg-logo="https://www.nettv.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视",南方卫视
 http://223.110.255.152:6610/gitv/live1/G_NANFANG/G_NANFANG/
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://www.nettv.live/uploads/18/1-1P21Q1221W44.png" group-title="卫视",农林卫视
