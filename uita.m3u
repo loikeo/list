@@ -119,14 +119,12 @@ http://player.ioioz.com/17/0/hogem3u8.php?tv=hainan&id=7
 http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SDETV1.jpg" group-title="卫视",教育卫视
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id=""  tvg-name="海峡卫视" group-title="卫视",海峡卫视
 http://101.89.132.136/live/tm-haixiatv-800k.m3u8
-
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg"  tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
-http://player.ioioz.com/18/tv.php?tv=fjtv&id=hxws
 #EXTINF:-1 tvg-id="60" tvg-logo="https://www.nettv.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视",南方卫视
 http://223.110.255.152:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg"  tvg-id="" tvg-name="海峡卫视" group-title="卫视",海峡卫视
+http://player.ioioz.com/18/tv.php?tv=fjtv&id=hxws
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://www.nettv.live/uploads/18/1-1P21Q1221W44.png" group-title="卫视",农林卫视
 http://223.110.255.152:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1Q201193146251.jpg" tvg-id="" tvg-name="中国黄河" group-title="卫视",中国黄河
