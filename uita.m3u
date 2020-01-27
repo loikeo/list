@@ -1,4 +1,4 @@
-﻿欢迎交流 私用收藏 勿传
+﻿欢迎交流 私用勿传 移动专用
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1HD
 http://223.110.255.152:6610/gitv/live1/G_CCTV-1-CQ/
@@ -132,7 +132,7 @@ http://live3.sxrtv.com/flvss?bitrate=512000&channel=ChinaHuangHe
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-19101GF9520-L.jpg" group-title="卫视",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
-#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="卫视",中华美食
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="https://www.nettv.live/uploads/19/1-1Z51121130U46.jpg" group-title="卫视",中华美食
 http://223.110.255.152:6610/gitv/live1/G_ZHONGHUAMS/G_ZHONGHUAMS/
 #EXTINF:-1 tvg-id="73" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="卫视",教育综合
 http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
