@@ -25,6 +25,16 @@ K频道,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 本道無碼9,p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
 本道無碼10,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 
+
+新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
+新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
+新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
+新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
+
+
 HAPPY幸福,P2p://fccsovh.pvbox.live:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 香蕉台,p2p://fccsovh.pvbox.live:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
 惊艳台HD,P2p://fccsovh.pvbox.live:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
