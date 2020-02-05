@@ -146,6 +146,14 @@ http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
 http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-logo="https://wx2.sinaimg.cn/thumb180/594fb883ly1fu2an764y0j20sg0sgac4.jpg" group-title="卫视",中国天气
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z92F021060-L.jpg" group-title="卫视",宁城综合
+http://player.ioioz.com/17/nmg/chifengm3u8.php?id=30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1PS1231916225.jpg" group-title="卫视",新闻综合
+http://player.ioioz.com/17/nmg/chifengm3u8.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1PS1232151U8.jpg" group-title="卫视",影视娱乐
+http://player.ioioz.com/17/nmg/chifengm3u8.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1PS1232409323.jpg" group-title="卫视",经济服务
+http://player.ioioz.com/17/nmg/chifengm3u8.php?id=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P310155545914.jpg" group-title="卫视",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/18/1-1P310155545914.jpg" group-title="卫视",新华英文
@@ -153,9 +161,9 @@ http://117.169.120.98:8080/ysten-businessmobile/live/SD-1200K-720P-XHSEN/1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jcggpd.jpg" group-title="地方",晋城公共频道
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jcggpd.jpg" group-title="地方",公共频道
 http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jcxwzh.jpg" group-title="地方",晋城新闻综合频道
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jcxwzh.jpg" group-title="地方",新闻综合
 http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影HD
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
