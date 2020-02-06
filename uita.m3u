@@ -124,25 +124,25 @@ http://itv.ahau.edu.cn/PLTV/88888888/224/3221225660/index.m3u8
 http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/HXTV.jpg" tvg-id=""  tvg-name="海峡卫视" group-title="卫视",海峡卫视
 http://116.211.251.113/stream6.fjtv.net/haixia/sd/live.m3u8?_upt=cec28f2a1580629566&drm
-#EXTINF:-1 tvg-id="60" tvg-logo="https://www.nettv.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视",南方卫视
+#EXTINF:-1 tvg-id="60" tvg-logo="https://gitee.com/loikeo/list/raw/master/nanfangtv.png" group-title="卫视",南方卫视
 http://223.110.255.152:6610/gitv/live1/G_NANFANG/G_NANFANG/
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://www.nettv.live/uploads/18/1-1P21Q1221W44.png" group-title="卫视",农林卫视
 http://223.110.255.152:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/18/1-1Q201193146251.jpg" tvg-id="" tvg-name="中国黄河" group-title="卫视",中国黄河
+#EXTINF:-1 tvg-id="65" tvg-name="中国黄河" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png"  group-title="卫视",中国黄河
 http://live3.sxrtv.com/flvss?bitrate=512000&channel=ChinaHuangHe
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/ZGJTPD.jpg" group-title="卫视",中国交通
+#EXTINF:-1 tvg-logo="https://gitee.com/loikeo/list/raw/master/zgjiaotong.png" group-title="卫视",中国交通
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/allimg/19/1-19101GF9520-L.jpg" group-title="卫视",中华特产
+#EXTINF:-1 tvg-logo="https://gitee.com/loikeo/list/raw/master/zhtechan.png" group-title="卫视",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="https://www.nettv.live/uploads/19/1-1Z51121130U46.jpg" group-title="卫视",中华美食
 http://223.110.255.152:6610/gitv/live1/G_ZHONGHUAMS/G_ZHONGHUAMS/
-#EXTINF:-1 tvg-id="73" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="卫视",教育综合
+#EXTINF:-1 tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",教育综合
 http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 tvg-id="74" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="卫视",继续教育
+#EXTINF:-1 tvg-id="74" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="卫视",继续教育
 http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
-#EXTINF:-1 tvg-id="75" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.jpg" group-title="卫视",人文教育
+#EXTINF:-1 tvg-id="75" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="卫视",人文教育
 http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="卫视",智慧教育
+#EXTINF:-1 tvg-id="76" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视",智慧教育
 http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-logo="https://wx2.sinaimg.cn/thumb180/594fb883ly1fu2an764y0j20sg0sgac4.jpg" group-title="卫视",中国天气
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
@@ -335,13 +335,13 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/YANTAISW.jpg" group-title="华数",动画4
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="华数",求索记录HD
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://gitee.com/loikeo/list/raw/master/qsjilu.png" group-title="华数",求索记录HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="华数",求索科学HD
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/loikeo/list/raw/master/qskexue.png" group-title="华数",求索科学HD
 http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="华数",求索动物HD
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://gitee.com/loikeo/list/raw/master/qsdongwu.png" group-title="华数",求索动物HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="华数",求索生活HD
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="https://gitee.com/loikeo/list/raw/master/qsshenghuo.png" group-title="华数",求索生活HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="华数",欧美影院
 http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
