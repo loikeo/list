@@ -146,7 +146,7 @@ http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视",智慧教育
 http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifengnc.png" group-title="卫视",新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifengnc.png" group-title="卫视",综合频道
 http://player.ioioz.com/17/nmg/chifengm3u8.php?id=30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifeng1.png" group-title="卫视",新闻综合
 http://player.ioioz.com/17/nmg/chifengm3u8.php?id=1
