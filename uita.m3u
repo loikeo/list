@@ -195,7 +195,7 @@ http://223.110.255.152:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 http://223.110.255.152:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="地方",CCTV央视精品
 http://player.ioioz.com/17/0/migum3u8.php?id=623338084
-#EXTINF:-1 tvg-id="6952" tvg-name="新科动漫" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/CCTVxinke.png" group-title="地方",CCTV新科动漫
+#EXTINF:-1 tvg-id="6952" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="地方",CCTV新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/weishengjk.png" group-title="地方",CCTV卫生健康
 http://183.238.77.8:9090/live/weishengjiankang_1500.m3u8
