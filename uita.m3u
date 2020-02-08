@@ -30,7 +30,7 @@ http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+HD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cctv5+.png" group-title="央视",CCTV-5+HD
 http://223.110.255.152:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17HD
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
@@ -159,35 +159,29 @@ http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cncen.png" group-title="卫视",新华英文
 http://117.169.120.98:8080/ysten-businessmobile/live/SD-1200K-720P-XHSEN/1.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jcggpd.jpg" group-title="地方",公共频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jincheng1.png" group-title="地方",公共频道
 http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jcxwzh.jpg" group-title="地方",新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jincheng2.png" group-title="地方",新闻综合
 http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影HD
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chcgaoqing.png" group-title="地方",CHC高清电影HD
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chcjiating.png" group-title="地方",CHC家庭影院
 http://iptv.pdsu.edu.cn/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chcdongzuo.png" group-title="地方",CHC动作电影
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-191030155JY51.jpg" tvg-id=""  group-title="地方",CCTV-4美洲
-http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-19103016035W49.jpg" tvg-id=""  group-title="地方",CCTV-4欧洲
-http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技"  tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",兵器科技
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技"  tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/bingqikeji.png" group-title="地方",CCTV兵器科技
 http://player.ioioz.com/17/0/migum3u8.php?id=623338073
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV风云足球
 http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/gaoerfuwq.png" group-title="地方",CCTV高尔夫网球
 http://player.ioioz.com/17/0/migum3u8.php?id=621984921
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV台球
 http://player.ioioz.com/17/0/migum3u8.php?id=603842910
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV风云音乐
 http://player.ioioz.com/17/0/migum3u8.php?id=623338072
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
 http://player.ioioz.com/17/0/migum3u8.php?id=623338051
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/huaijiujc.png" group-title="地方",CCTV怀旧剧场
 http://player.ioioz.com/17/0/migum3u8.php?id=623364608
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
 http://itv.ahau.edu.cn/hls/dyjctv.m3u8
@@ -195,52 +189,68 @@ http://itv.ahau.edu.cn/hls/dyjctv.m3u8
 http://player.ioioz.com/17/0/migum3u8.php?id=623338083
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",CCTV发现之旅
 http://223.110.255.152:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",CCTV老故事
 http://223.110.255.152:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="地方",弈坛春秋
-http://223.110.255.152:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学频道
-http://223.110.255.152:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
-#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
-http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
-http://39.134.176.153/PLTV/88888888/224/3221226744/index.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV女性时尚
 http://223.110.255.152:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="地方",CCTV央视精品
 http://player.ioioz.com/17/0/migum3u8.php?id=623338084
-#EXTINF:-1 tvg-id="6952" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="地方",新科动漫
+#EXTINF:-1 tvg-id="6952" tvg-name="新科动漫" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/CCTVxinke.png" group-title="地方",CCTV新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV13.jpg" group-title="地方",CCTV卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/weishengjk.png" group-title="地方",CCTV卫生健康
 http://183.238.77.8:9090/live/weishengjiankang_1500.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/NANFANG3.jpg" group-title="地方",广东综艺
-http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/dianshizhinan.png" group-title="地方",CCTV电视指南
+http://39.135.15.212:6610/PLTV/88888888/224/3221225673/1/index.m3u8
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/zaoqijiaoyu.png" group-title="地方",CCTV早期教育
+http://39.135.15.212:6610/PLTV/88888888/224/3221225679/1/index.m3u8
+#EXTINF:-1 tvg-id="6583" tvg-name="中学生" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhongxuesheng.png" group-title="地方",CCTV中学生
+http://39.135.15.212:6610/PLTV/88888888/224/3221225663/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/guojimeizhou.png"   group-title="地方",CCTV-4美洲
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/guojiouzhou.png"  group-title="地方",CCTV-4欧洲
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2_hd/index.m3u8
+#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/yitanchunqiu.png" group-title="地方",弈坛春秋
+http://223.110.255.152:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/guoxue.png" group-title="地方",国学频道
+http://223.110.255.152:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/shuhua.png" group-title="地方",书画频道
+http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8
 #EXTINF:-1 tvg-id="7190" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="地方",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="地方",Channel V
 http://iptv.pdsu.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="2070" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方",美食天府
+#EXTINF:-1 tvg-id="2070" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方",美食天府
 http://player.ioioz.com/17/sc/chengduflv.php?rate=hd&id=17
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",BTV冬奥纪实HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/huanqiuqiguan.png" group-title="地方",环球奇观
 http://183.238.77.8:9090/live/huanqiuqiguan_1500.m3u8
-#EXTINF:-1 tvg-id="6606" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
+#EXTINF:-1 tvg-id="6606" tvg-name=""  tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/sihaidiaoyu.png" group-title="地方",四海钓鱼
 http://player.ioioz.com/17/sc/scyxm3u8.php?id=shdy
-#EXTINF:-1 tvg-id="1202" tvg-name="英语辅导频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="地方",英语辅导
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/gdzongyi.png" group-title="地方",广东综艺
+http://nclive.grtn.cn/4K/sd/live.m3u8
+#EXTINF:-1 tvg-id="1202" tvg-name="英语辅导频道" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/yingyufudao.png" group-title="地方",英语辅导
 http://itv.ahau.edu.cn/hls/hls107.m3u8
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方",先锋乒羽
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226131/1.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 http://223.110.255.152:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
 http://223.110.255.152:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226746/1.m3u8
-#EXTINF:-1 tvg-id="67" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷少儿
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/dongaojishi.png" group-title="地方",BTV冬奥纪实HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 tvg-id="67"  tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/kakushaoer.png" group-title="地方",卡酷少儿
 http://223.110.255.152:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jinyingkatong.png" group-title="地方",金鹰卡通HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226746/1.m3u8
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/pingyu.png" group-title="地方",先锋乒羽
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226131/1.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jinyingjishi.png" group-title="地方",金鹰纪实HD
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/tea.png" group-title="地方",茶频道
+http://39.134.176.153/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/kuailechuidiao.png" group-title="地方",快乐垂钓
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226132/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/zuqiu.png" group-title="地方",足球HD
+http://itv.ahau.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/lanqiu.png" group-title="地方",篮球
+http://223.110.255.152:6610/gitv/live1/G_LANQIU/G_LANQIU
 
 
 
