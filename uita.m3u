@@ -146,7 +146,7 @@ http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
 http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/tianqi.png" group-title="卫视",中国天气
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifengnc.png" group-title="卫视",宁城综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifengnc.png" group-title="卫视",新闻综合
 http://player.ioioz.com/17/nmg/chifengm3u8.php?id=30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifeng1.png" group-title="卫视",新闻综合
 http://player.ioioz.com/17/nmg/chifengm3u8.php?id=1
@@ -158,6 +158,8 @@ http://player.ioioz.com/17/nmg/chifengm3u8.php?id=3
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/cncen.png" group-title="卫视",新华英文
 http://117.169.120.98:8080/ysten-businessmobile/live/SD-1200K-720P-XHSEN/1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jincheng1.png" group-title="地方",公共频道
 http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
@@ -251,7 +253,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226132/1.m3u8
 http://itv.ahau.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/lanqiu.png" group-title="地方",篮球
 http://223.110.255.152:6610/gitv/live1/G_LANQIU/G_LANQIU
-
 
 
 
