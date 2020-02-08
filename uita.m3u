@@ -132,6 +132,8 @@ http://223.110.255.152:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 http://live3.sxrtv.com/flvss?bitrate=512000&channel=ChinaHuangHe
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/jiaotong.png" group-title="卫视",中国交通
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/tianqi.png" group-title="卫视",中国天气
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/techan.png" group-title="卫视",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-id="6597" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/food.png" group-title="卫视",中华美食
@@ -144,8 +146,6 @@ http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视",智慧教育
 http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/tianqi.png" group-title="卫视",中国天气
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifengnc.png" group-title="卫视",新闻综合
 http://player.ioioz.com/17/nmg/chifengm3u8.php?id=30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/loikeo/list/raw/master/logo/chifeng1.png" group-title="卫视",新闻综合
