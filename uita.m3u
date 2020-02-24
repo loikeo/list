@@ -675,6 +675,8 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/ABC.au.png" group-title="AKAM",abc
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="AKAM",BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/ABCKids.au.png" group-title="AKAM",abc kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/au/ABCME.au.png" group-title="AKAM",abc me
