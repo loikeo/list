@@ -298,8 +298,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8
 http://itv.ahau.edu.cn/PLTV/2/224/3221226039/2.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="http://static2.tvzhe.com/channel/logo/SITV6.jpg" group-title="SITV",金色频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226277/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="http://static2.tvzhe.com/channel/logo/GTV-QIPAI.jpg" group-title="SITV",网络棋牌
-http://liveqxw.chinamcache.com/live/wlqp.m3u8
 #EXTINF:-1 tvg-id="62" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="SITV",哈哈炫动
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nettv.live/uploads/19/1-1Z40Q23006108.jpg" group-title="SITV",东方购物
