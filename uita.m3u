@@ -291,13 +291,13 @@ http://39.134.52.153/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 tvg-id="6609" tvg-logo="http://static2.tvzhe.com/channel/logo/BAMC7.jpg" group-title="SITV",新娱乐
 http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="SITV",幸福彩
-http://player.ioioz.com/17/ln/ttm3u8.php?id=xingfucai
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227447/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://static2.tvzhe.com/channel/logo/SITV3.jpg" group-title="SITV",法治天地
-http://player.ioioz.com/17/ln/ttm3u8.php?id=fztd
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8
 #EXTINF:-1 tvg-id=""  tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="SITV",七彩戏剧
-http://player.ioioz.com/17/ln/ttm3u8.php?id=qicaixj
+http://itv.ahau.edu.cn/PLTV/2/224/3221226039/2.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="http://static2.tvzhe.com/channel/logo/SITV6.jpg" group-title="SITV",金色频道
-http://player.ioioz.com/17/ln/ttm3u8.php?id=jinse
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226277/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="http://static2.tvzhe.com/channel/logo/GTV-QIPAI.jpg" group-title="SITV",网络棋牌
 http://liveqxw.chinamcache.com/live/wlqp.m3u8
 #EXTINF:-1 tvg-id="62" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="SITV",哈哈炫动
