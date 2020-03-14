@@ -14,7 +14,7 @@ http://223.110.255.152:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6HD
 http://223.110.255.152:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7HD
-,http://223.110.255.152:6610/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+http://223.110.255.152:6610/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8HD
 http://223.110.255.152:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9HD
@@ -40,7 +40,7 @@ http://itv.ahau.edu.cn/hls/hls67a43.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNdoc" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="CCTV",CGTN-DOCHD
 http://itv.ahau.edu.cn/hls/hls67a44.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV-4K
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/2000266303.m3u8
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
 
 
@@ -82,7 +82,7 @@ http://223.110.255.152:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="WSTV",广西卫视HD
 http://itv.ahau.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="WSTV",贵州卫视HD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226864/1.m3u8
+http://hdtv.lzu6.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="WSTV",河北卫视HD
 http://itv.ahau.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="WSTV",河南卫视HD
